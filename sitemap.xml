@@ -38,6 +38,8 @@
     <loc>https://ming1ing.github.io/second/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://ming1ing.github.io/database/</loc>
+  </url><url>
     <loc>https://ming1ing.github.io/go/</loc>
   </url>
 </urlset>
