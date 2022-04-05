@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://ming1ing.github.io/categories/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://ming1ing.github.io/post/hello/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/hello/</loc>
+    <loc>https://ming1ing.github.io/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/</loc>
+    <loc>https://ming1ing.github.io/post/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://ming1ing.github.io/tags/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://ming1ing.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://ming1ing.github.io/categories/%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/first/</loc>
+    <loc>https://ming1ing.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/hello2/</loc>
+    <loc>https://ming1ing.github.io/post/hello2/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/hugo_introduce/</loc>
+    <loc>https://ming1ing.github.io/post/hugo_introduce/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/fisrt/</loc>
+    <loc>https://ming1ing.github.io/fisrt/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://examplesite.com/second/</loc>
+    <loc>https://ming1ing.github.io/second/</loc>
     <priority>0</priority>
   </url>
 </urlset>
