@@ -9,7 +9,18 @@
       <link>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ming1ing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:01:39 +0800</lastBuildDate><atom:link href="https://ming1ing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gotest</title>
+      <link>https://ming1ing.github.io/go/gotest/</link>
+      <pubDate>Wed, 06 Apr 2022 00:01:39 +0800</pubDate>
+      
+      <guid>https://ming1ing.github.io/go/gotest/</guid>
+      <description>背景 这一篇关于go test的文章，用于记录常用的go test用法
+go test安装 测试你好
+测试代码 </description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://ming1ing.github.io/post/hello/</link>
