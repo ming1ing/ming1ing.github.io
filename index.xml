@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ming1ing Blog</title>
+    <link>https://ming1ing.github.io/</link>
+    <description>Recent content on ming1ing Blog</description>
+    <image>
+      <title>ming1ing Blog</title>
+      <url>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Feb 2023 00:22:12 +0800</lastBuildDate>
+    <atom:link href="https://ming1ing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>切片</title>
+      <link>https://ming1ing.github.io/go/slice/</link>
+      <pubDate>Wed, 15 Feb 2023 00:22:12 +0800</pubDate>
+      <guid>https://ming1ing.github.io/go/slice/</guid>
+      <description>// /src/runtime/slice.go type slice struct { array unsafe.Pointer len int cap int } // 1.17版本扩容机制 if cap &amp;gt; doublecap { newcap = cap } else { if old.cap &amp;lt; 1024 { newcap = doublecap } else { // Check 0 &amp;lt; newcap to detect overflow // and prevent an infinite loop. for 0 &amp;lt; newcap &amp;amp;&amp;amp; newcap &amp;lt; cap { newcap += newcap / 4 } // Set newcap to the requested cap when // the newcap calculation overflowed.</description>
+    </item>
+    <item>
+      <title>数据库索引</title>
+      <link>https://ming1ing.github.io/database/indexes/</link>
+      <pubDate>Tue, 14 Feb 2023 23:58:29 +0800</pubDate>
+      <guid>https://ming1ing.github.io/database/indexes/</guid>
+      <description>索引 参考文章 MySQL索引详解（一文搞懂）https://developer.aliyun.com/article/831250#:~:text=MySQL%E7%B4%A2%E5%BC%95%E4%BD%BF%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%BB%E8%A6%81%E6%9C%89%20BTree%E7%B4%A2%E5%BC%95,%E5%92%8C%20hash%E7%B4%A2%E5%BC%95%20%E3%80%82</description>
+    </item>
+    <item>
+      <title>Gorm</title>
+      <link>https://ming1ing.github.io/go/gorm/</link>
+      <pubDate>Thu, 29 Dec 2022 00:12:17 +0800</pubDate>
+      <guid>https://ming1ing.github.io/go/gorm/</guid>
+      <description>gorm 入门 安装 // 安装 //go get -u gorm.io/gorm //go get -u gorm.io/driver/mysql 连接数据库 // mysql 版本低于5.7 用utf8 ，高于5.7用utf8mb4 dsn := &amp;#34;root:123456@(127.0.0.1:3306)/db1?charset=utf8&amp;amp;parseTime=True&amp;amp;loc=Local&amp;#34; db, err := gorm.Open(mysql.Open(dsn), &amp;amp;gorm.Config{}) if err != nil { panic(err) } </description>
+    </item>
+    <item>
+      <title>Gotest</title>
+      <link>https://ming1ing.github.io/go/gotest/</link>
+      <pubDate>Wed, 06 Apr 2022 00:01:39 +0800</pubDate>
+      <guid>https://ming1ing.github.io/go/gotest/</guid>
+      <description>背景 这一篇关于go test的文章，用于记录常用的go test用法
+go test安装 测试你好
+func add(a, b int) int { return a + b } add_test.go // go test- v package main import ( &amp;#34;reflect&amp;#34; &amp;#34;testing&amp;#34; ) func TestAdd(t *testing.T) { // 定义测试表格 // 这里使用匿名结构体定义了若干个测试用例 // 并且为每个测试用例设置了一个名称 tests := []struct { name string inputa int inputb int want int }{ {&amp;#34;case 1&amp;#34;, 1, 1, 2}, {&amp;#34;case 2&amp;#34;, 2, 2, 4}, } // 遍历测试用例 for _, tt := range tests { t.</description>
+    </item>
+    <item>
+      <title>Mysql</title>
+      <link>https://ming1ing.github.io/database/mysql/</link>
+      <pubDate>Tue, 05 Apr 2022 23:51:17 +0800</pubDate>
+      <guid>https://ming1ing.github.io/database/mysql/</guid>
+      <description>索引2 </description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://ming1ing.github.io/post/hello/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ming1ing.github.io/post/hello/</guid>
+      <description>第一篇博客</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://ming1ing.github.io/post/hello2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://ming1ing.github.io/post/hello2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://ming1ing.github.io/post/hugo_introduce/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://ming1ing.github.io/post/hugo_introduce/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ming1ing.github.io/fisrt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ming1ing.github.io/fisrt/</guid>
+      <description>hello world ming</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ming1ing.github.io/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ming1ing.github.io/second/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

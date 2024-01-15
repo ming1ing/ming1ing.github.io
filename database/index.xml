@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据库 on ming1ing Blog</title>
+    <link>https://ming1ing.github.io/database/</link>
+    <description>Recent content in 数据库 on ming1ing Blog</description>
+    <image>
+      <title>ming1ing Blog</title>
+      <url>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Feb 2023 23:58:29 +0800</lastBuildDate>
+    <atom:link href="https://ming1ing.github.io/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据库索引</title>
+      <link>https://ming1ing.github.io/database/indexes/</link>
+      <pubDate>Tue, 14 Feb 2023 23:58:29 +0800</pubDate>
+      <guid>https://ming1ing.github.io/database/indexes/</guid>
+      <description>索引 参考文章 MySQL索引详解（一文搞懂）https://developer.aliyun.com/article/831250#:~:text=MySQL%E7%B4%A2%E5%BC%95%E4%BD%BF%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%BB%E8%A6%81%E6%9C%89%20BTree%E7%B4%A2%E5%BC%95,%E5%92%8C%20hash%E7%B4%A2%E5%BC%95%20%E3%80%82</description>
+    </item>
+    <item>
+      <title>Mysql</title>
+      <link>https://ming1ing.github.io/database/mysql/</link>
+      <pubDate>Tue, 05 Apr 2022 23:51:17 +0800</pubDate>
+      <guid>https://ming1ing.github.io/database/mysql/</guid>
+      <description>索引2 </description>
+    </item>
+  </channel>
+</rss>

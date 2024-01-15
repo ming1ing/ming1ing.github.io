@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first on ming1ing Blog</title>
+    <link>https://ming1ing.github.io/tags/first/</link>
+    <description>Recent content in first on ming1ing Blog</description>
+    <image>
+      <title>ming1ing Blog</title>
+      <url>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ming1ing.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://ming1ing.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://ming1ing.github.io/post/hello2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://ming1ing.github.io/post/hello2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://ming1ing.github.io/post/hugo_introduce/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://ming1ing.github.io/post/hugo_introduce/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>
